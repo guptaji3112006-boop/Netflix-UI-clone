@@ -573,9 +573,13 @@ header .box{
         justify-content: center;
     }
    
-
     .card img {
         height: 200px; 
+    }
+
+     .card {
+       
+        width: 140px !important;
     }
     .no1 {
         font-size: 80px;  
@@ -626,7 +630,7 @@ header .box{
     }
     .card {
        
-        width: 130px !important;
+        width: 114px !important;
     }
     .card img {
         height: 160px; 
