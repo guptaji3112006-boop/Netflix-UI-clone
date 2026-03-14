@@ -713,7 +713,6 @@ header .box{
 /* Small Mobile Phones (Max Width: 480px) */
 @media (max-width: 480px) {
     .nav-bar {
-        flex-direction: column;
         gap: 15px;
         height: auto;
         padding-bottom: 20px;
