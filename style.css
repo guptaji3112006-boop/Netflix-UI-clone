@@ -732,7 +732,7 @@ header .box{
         justify-content: center;
     }
     .foot {
-        text-align: center;
+        /* text-align: center; */
     }
     .language-box2 {
         margin: 40px auto 0;
